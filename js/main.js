@@ -118,7 +118,7 @@ $(function() {
       icon: 'https://api2.mubu.com/v3/document_image/d71a9157-7b61-42cd-a2f8-87ba7bc2ba5c-2539378.jpg',
     },{
       name: '论文降重',
-      link: 'https://kliuu.gitee.io/lw/',
+      link: 'https://kliuu.github.io/lw/',
       box_shadow: '#3355e4',
       icon: 'https://api2.mubu.com/v3/document_image/7a7d96c2-4894-4893-97d7-1023954fc27c-2539378.jpg',
     },{
