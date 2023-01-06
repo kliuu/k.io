@@ -133,7 +133,7 @@ $(function() {
       icon: 'img/ding.png',
     },{
       name: '课程表',
-      link: 'https://cmisgonow.sheffield.ac.uk/CMISGo/Web/Timetable',
+      link: 'https://cmisgostudents.shef.ac.uk/CMISGo/Web/Timetable',
       box_shadow: '#00A0E9',
       icon: 'img/true.png',
     }]
