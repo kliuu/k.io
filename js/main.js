@@ -87,12 +87,12 @@ $(function() {
       box_shadow: '#F18033',
       icon: 'img/blog.png',
     },{
-      name: '学习笔记',
-      link: 'https://kliuu.gitee.io/blog/',
+      name: '博客笔记',
+      link: 'https://185200.xyz/',
       box_shadow: '#F18033',
       icon: 'img/note.png',
     },{
-      name: '谷歌邮箱',
+      name: '谢菲邮箱',
       link: 'https://www.sheffield.ac.uk/nap/service/redirect/gmail',
       box_shadow: '#F18033',
       icon: 'https://api2.mubu.com/v3/document_image/bebb4ec0-4a18-46dc-8142-54db63401ac2-2539378.jpg',
