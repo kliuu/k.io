@@ -127,10 +127,10 @@ $(function() {
       box_shadow: '#F2584A',
       icon: 'img/headline.png',
     },{
-      name: '疫情跟踪',
-      link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
+      name: 'ChatGPT',
+      link: 'https://chat.openai.com/chat',
       box_shadow: '#7C5DC7',
-      icon: 'img/ding.png',
+      icon: 'img/chat.png',
     },{
       name: '课程表',
       link: 'https://cmisgostudents.shef.ac.uk/CMISGo/Web/Timetable',
